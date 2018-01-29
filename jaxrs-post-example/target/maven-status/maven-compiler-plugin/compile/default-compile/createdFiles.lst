@@ -1,0 +1,7 @@
+com/logicbig/example/client/ClientUtil.class
+com/logicbig/example/api/CustomerRestService.class
+com/logicbig/example/CustomerDataService.class
+com/logicbig/example/Customer.class
+com/logicbig/example/client/ClientApp.class
+com/logicbig/example/MyRestApp.class
+com/mkyong/rest/Customer.class
